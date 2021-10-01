@@ -24,6 +24,7 @@ The files build_char.asm and build2_char.asm are only used to pack multiple raw 
 ## Demo scene reference
 
 https://www.pouet.net/prod.php?which=72798
+https://demozoo.org/productions/5920/
 
 You may notice that the scroll text of this version and the released version are different. 
 Thats because I had to change the text while I was at the party (using a hex editor...) but I cant recall why.
