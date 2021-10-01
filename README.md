@@ -2,7 +2,7 @@
 
 My contribution to the "40K Amiga Intro" competition at the "Party 3" back in December 1993.
 
-![Screenshot](https://github.com/LutzGrosshennig/amiga-drunken-coder-intro/blob/master/images/Screenshot.jpg)
+![Screenshot](https://github.com/LutzGrosshennig/amiga-drunken-coder-intro/blob/main/images/Screenshot.jpg)
 
 ## Background
 
