@@ -4,6 +4,10 @@ My contribution to the "40K Amiga Intro" competition at the "Party 3" back in De
 
 ![Screenshot](https://github.com/LutzGrosshennig/amiga-drunken-coder-intro/blob/main/images/Screenshot.jpg)
 
+https://user-images.githubusercontent.com/29707648/221998213-7ac80c63-009f-4b5f-af9c-7c1cc2bc72d1.mp4
+
+
+
 ## Background
 
 Since the music and the graphic took the largest chunk of the 40kb there was not much room left for the actual
